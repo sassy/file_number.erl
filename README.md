@@ -1,6 +1,7 @@
 # file_number.erl
 * ファイルに行番号を挿入するだけの簡単なスクリプト
 * Erlangを勉強するために書いただけ
+
 ## 使い方
 * erlを立ち上げて、file_number.erlをコンパイルする
 * file_number:add_file_number(A,B).で
